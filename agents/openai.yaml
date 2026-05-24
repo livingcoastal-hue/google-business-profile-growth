@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Business Profile Growth"
+  short_description: "GBP ranking and update agents"
+  default_prompt: "Use $google-business-profile-growth to audit this Google Business Profile, compare competitors, and create an optimization plan."
